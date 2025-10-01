@@ -42,7 +42,7 @@ Creating more pivot tables I was able to find and visualise other interesting da
 <img width="323" height="135" alt="image" src="https://github.com/user-attachments/assets/27405312-2f48-43b0-8b4b-c70ca2735a89" />
 <img width="848" height="510" alt="image" src="https://github.com/user-attachments/assets/c86a304d-ef07-4a4b-9198-3de068d96075" />  
 
-### Total renenue for each product category by country:
+### Total revenue for each product category by country:
 <img width="472" height="175" alt="image" src="https://github.com/user-attachments/assets/2e3dbd55-7ba3-411c-9c11-b7ca6874e73c" />
 <img width="745" height="447" alt="image" src="https://github.com/user-attachments/assets/9b3ae42b-6f16-4a39-bda0-c485efc982f7" />  
 
