@@ -40,15 +40,18 @@ The dataset includes:
 Creating more pivot tables I was able to find and visualise other interesting data insights such as -
 ### A comparison of revenue and profit each year:
 <img width="323" height="135" alt="image" src="https://github.com/user-attachments/assets/27405312-2f48-43b0-8b4b-c70ca2735a89" />
+
 <img width="848" height="510" alt="image" src="https://github.com/user-attachments/assets/c86a304d-ef07-4a4b-9198-3de068d96075" />  
 
-### Total revenue for each product category by country:
+### Total revenue for each product category by country:  
 <img width="472" height="175" alt="image" src="https://github.com/user-attachments/assets/2e3dbd55-7ba3-411c-9c11-b7ca6874e73c" />
+
 <img width="745" height="447" alt="image" src="https://github.com/user-attachments/assets/9b3ae42b-6f16-4a39-bda0-c485efc982f7" />  
 
-### Total revenue by age group:
+### Total revenue by age group:  
 <img width="259" height="119" alt="image" src="https://github.com/user-attachments/assets/0ff40268-85e8-4be8-be2b-ec03fe203205" />
-<img width="711" height="452" alt="image" src="https://github.com/user-attachments/assets/cfd7aaa2-873f-422a-878c-597a185dbe98" />  
+
+<img width="711" height="452" alt="image" src="https://github.com/user-attachments/assets/cfd7aaa2-873f-422a-878c-597a185dbe98" />
 
 ## 🎯 Objective
 To provide an example as to how pivot tables can be used to quickly summarise this bike sales data, turn those results into easy to understand visualisations and if it were a real companies data: identify growth opportunities and support decision-making through Excel-based analysis.
